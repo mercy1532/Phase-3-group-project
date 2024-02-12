@@ -24,7 +24,6 @@ For this project, the models we used are
 - Random Forest Classifer
 - XGBoost Classifier
 - KNN Classifier
-- Support Vector Machine
 
 We used recall score to score our models and assesed the best performing model using the test data.
 We opted for recall since we wish to reduce the cost incurred by a lot of false negatives.It woulde be more costly for the company if the model predicted that a customer would stay with SyriaTel when in fact that would churn/leave. This would lead to a missed opportunity for the company to dedicate retention resources towards that customer and keeping their business.
