@@ -1,5 +1,5 @@
 ![image](https://github.com/ellahad/Phase-3-Project-/assets/145706145/bac914cc-725f-4d02-be80-679a97e184f7)
-# Analysisis for Predicting and preventing customer churn for SyriaTel company
+# Analysis for Predicting and preventing customer churn for SyriaTel company
 
 ## Objectives of the study
 -Build a machine learning model that predicts customer churn
