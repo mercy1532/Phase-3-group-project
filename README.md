@@ -19,7 +19,7 @@ The data can be downloaded directly from kaggle  or from this repo in Data.csv f
 
 ## Models used
 For this project, the models we used are
-- Decisioin Tree Classifier
+- Decision Tree Classifier
 - Logistic Regression Classifier
 - Random Forest Classifer
 - XGBoost Classifier
